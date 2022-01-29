@@ -1,0 +1,24 @@
+component_set = {
+	key = "SW_PROTON_BEAM"
+	
+	icon = "GFX_ship_part_sw_proton_beam"
+	icon_frame = 1	
+}
+component_set = {
+	key = "SW_SHIELD_LEECH"
+	
+	icon = "GFX_ship_part_sw_shield_leech"
+	icon_frame = 1	
+}
+component_set = {
+	key = "SW_ION_BLAST"
+	
+	icon = "GFX_ship_part_sw_ion_blast"
+	icon_frame = 1	
+}
+component_set = {
+	key = "SW_PLASMA_BLAST"
+	
+	icon = "GFX_ship_part_sw_plasma_blast"
+	icon_frame = 1	
+}

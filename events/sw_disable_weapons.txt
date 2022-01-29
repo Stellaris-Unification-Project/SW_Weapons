@@ -1,0 +1,21 @@
+namespace = sw_disable
+
+event = {
+	id = sw_disable.1
+	hide_window = yes
+	is_triggered_only = yes
+
+	immediate = {
+		set_global_flag = disable_turbo
+	}
+}
+
+event = {
+	id = sw_disable.2
+	hide_window = yes
+	is_triggered_only = yes
+
+	immediate = {
+		remove_global_flag = disable_turbo
+	}
+}

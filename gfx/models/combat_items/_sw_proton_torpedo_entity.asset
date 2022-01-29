@@ -1,0 +1,9 @@
+entity = {
+	name = "sw_proton_guided_entity"
+	cull_radius = 0.5
+	
+	default_state = idle
+	state = { name = "idle"
+		event = { time = 0 particle = "guided_sw_proton_idle_particle" keep_particle = yes }
+	}
+}

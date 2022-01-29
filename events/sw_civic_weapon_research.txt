@@ -1,0 +1,23 @@
+namespace = turbo_tech
+
+### Empire init - add technologies and resources
+	country_event = {
+	id = turbo_tech.1
+	hide_window = yes
+	is_triggered_only = yes
+
+   immediate = {
+        if = {
+			limit = { 
+				has_civic = civic_weapon_research 
+				}
+			give_technology = { message = no tech = tech_light_turbo }
+            give_technology = { message = no tech = tech_ion_cannon_1 }
+			give_technology = { message = no tech = tech_st_shipsized_weapons }
+			give_technology = { message = no tech = tech_st_tibanna_refined }
+			give_technology = { message = no tech = tech_defence_turbo_1 }
+			give_technology = { message = no tech = tech_kyber_mining }
+			give_technology = { message = no tech = tech_tibanna_mining }
+        } 
+	}
+}

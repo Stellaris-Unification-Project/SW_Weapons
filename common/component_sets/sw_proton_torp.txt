@@ -1,0 +1,18 @@
+component_set = {
+	key = "G_PROTON_TORP_1"
+	
+	icon = "GFX_ship_part_proton_torp_G_1"
+	icon_frame = 1	
+}
+component_set = {
+	key = "G_PROTON_TORP_2"
+	
+	icon = "GFX_ship_part_proton_torp_G_2"
+	icon_frame = 1	
+}
+component_set = {
+	key = "G_PROTON_TORP_3"
+	
+	icon = "GFX_ship_part_proton_torp_G_3"
+	icon_frame = 1	
+}

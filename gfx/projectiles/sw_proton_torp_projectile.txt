@@ -1,0 +1,16 @@
+projectile_gfx_missile = {
+	#common for all types of projectiles
+	name = "sw_proton_torpedo_g"
+	color = { 1.0	1.0		1.0		1.0 }
+	hit_entity = "sw_proton_small_hit_entity"
+	shield_hit_entity = "sw_proton_small_shield_hit_entity"
+	muzzle_flash_entity = "sw_proton_small_muzzle_flash_entity"
+	
+	#ballistic specific
+	entity = "sw_proton_guided_entity"
+	
+	shield_impact = {
+		size = small
+		delay = 0.0
+	}
+}

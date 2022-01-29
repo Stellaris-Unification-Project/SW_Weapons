@@ -1,0 +1,43 @@
+esww  = {
+	modifier = { }
+	
+	resources = {
+		category = edicts
+		cost = {
+			energy = 1
+		}
+	}
+	potential = {
+	is_ai = no
+	}
+	
+	length = 1
+	effect = {
+		country_event = { id = sw_disable.2 }
+	}
+	ai_weight = {
+		weight = 0
+	}
+}
+
+dsww = {
+	modifier = { }
+	
+	resources = {
+		category = edicts
+		cost = {
+			energy = 1
+		}
+	}
+	potential = {
+	is_ai = no
+	}
+	
+	length = 1
+	effect = {
+		country_event = { id = sw_disable.1 }
+	}
+	ai_weight = {
+		weight = 0
+	}
+}

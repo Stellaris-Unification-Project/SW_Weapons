@@ -1,0 +1,56 @@
+component_set = {
+	key = "G_CONCUSSION_1_SET"
+	
+	icon = "GFX_ship_part_small_concussion"
+	icon_frame = 1	
+}
+
+component_set = {
+	key = "G_CONCUSSION_2_SET"
+	
+	icon = "GFX_ship_part_medium_concussion"
+	icon_frame = 1	
+}
+
+component_set = {
+	key = "G_CONCUSSION_3_SET"
+	
+	icon = "GFX_ship_part_advanced_concussion"
+	icon_frame = 1	
+}
+
+component_set = {
+	key = "G_CONCUSSION_4_SET"
+	
+	icon = "GFX_ship_part_heavy_concussion"
+	icon_frame = 1	
+}
+
+component_set = {
+	key = "G_CONCUSSION_5_SET"
+	
+	icon = "GFX_ship_part_assault_concussion"
+	icon_frame = 1	
+}
+
+component_set = {
+	key = "ION_PULSE_1"
+	
+	icon = "GFX_ship_part_ion_pulse_missile"
+	icon_frame = 1	
+}
+
+component_set = {
+	key = "ION_PULSE_2"
+	
+	icon = "GFX_ship_part_ion_pulse_missile_2"
+	icon_frame = 1	
+}
+
+
+component_set = {
+	key = "PROTON_TORPEDO"
+	
+	icon = "GFX_ship_part_sw_proton_torpedo"
+	icon_frame = 1	
+}

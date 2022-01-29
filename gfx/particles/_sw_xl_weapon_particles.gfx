@@ -1,0 +1,41 @@
+objectTypes = {
+########
+# Idle Weapon effects
+########
+	pdxparticle = {
+		name = "sw_plasma_blast_idle_particle"
+		type = "sw_plasma_blast_idle_file"
+		
+		scale = 5.0
+	}
+	pdxparticle = {
+		name = "sw_plasma_blast_idle_drops_particle"
+		type = "sw_plasma_blast_idle_drops_file"
+		
+		scale = 5.0
+	}
+	pdxparticle = {
+		name = "sw_plasma_blast_hit_effect"
+		type = "sw_plasma_blast_hit_effect_file"
+		
+		scale = 5.0
+	}
+	pdxparticle = {
+		name = "sw_ion_blast_idle_particle"
+		type = "sw_ion_blast_idle_file"
+		
+		scale = 5.0
+	}
+	pdxparticle = {
+		name = "sw_ion_blast_idle_drops_particle"
+		type = "sw_ion_blast_idle_drops_file"
+		
+		scale = 5.0
+	}
+	pdxparticle = {
+		name = "sw_ion_blast_hit_effect"
+		type = "sw_ion_blast_hit_effect_file"
+		
+		scale = 5.0
+	}
+}

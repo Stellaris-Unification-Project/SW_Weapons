@@ -1,0 +1,186 @@
+tech_ven_mass_driver_1 = {
+	area = engineering
+	cost = @tier2cost3
+	tier = 2
+	category = { materials }
+	ai_update_type = military
+	prerequisites = { "tech_medium_turbo" }
+	weight = @tier2weight1
+	
+	weight_modifier = {
+		modifier = {
+			factor = 0.65
+			has_ethic = ethic_fanatic_pacifist
+		}
+		modifier = {
+			factor = 0.8
+			has_ethic = ethic_pacifist
+		}
+		modifier = {
+			factor = 1.25
+			has_ethic = ethic_militarist
+		}
+		modifier = {
+			factor = 1.5
+			has_ethic = ethic_fanatic_militarist
+		}
+		modifier = {
+			factor = 1.25
+			research_leader = {
+				area = engineering
+				has_trait = "leader_trait_expertise_materials"
+			}
+		}
+	}
+	
+	ai_weight = {
+		factor = 4
+		modifier = {
+			factor = 0.65
+			has_ethic = ethic_fanatic_pacifist
+		}
+		modifier = {
+			factor = 0.8
+			has_ethic = ethic_pacifist
+		}
+		modifier = {
+			factor = 1.25
+			has_ethic = ethic_militarist
+		}
+		modifier = {
+			factor = 1.5
+			has_ethic = ethic_fanatic_militarist
+		}
+		modifier = {
+			factor = 1.25
+			research_leader = {
+				area = engineering
+				has_trait = "leader_trait_expertise_materials"
+			}
+		}
+	}
+}
+tech_ven_mass_driver_2 = {
+	area = engineering
+	cost = @tier2cost2
+	tier = 2
+	category = { materials }
+	ai_update_type = military
+	prerequisites = { "tech_ven_mass_driver_1" }
+	weight = @tier1weight1
+	
+	weight_modifier = {
+		modifier = {
+			factor = 0.65
+			has_ethic = ethic_fanatic_pacifist
+		}
+		modifier = {
+			factor = 0.8
+			has_ethic = ethic_pacifist
+		}
+		modifier = {
+			factor = 1.25
+			has_ethic = ethic_militarist
+		}
+		modifier = {
+			factor = 1.5
+			has_ethic = ethic_fanatic_militarist
+		}
+		modifier = {
+			factor = 1.25
+			research_leader = {
+				area = engineering
+				has_trait = "leader_trait_expertise_materials"
+			}
+		}
+	}
+	
+	ai_weight = {
+		factor = 4
+		modifier = {
+			factor = 0.65
+			has_ethic = ethic_fanatic_pacifist
+		}
+		modifier = {
+			factor = 0.8
+			has_ethic = ethic_pacifist
+		}
+		modifier = {
+			factor = 1.25
+			has_ethic = ethic_militarist
+		}
+		modifier = {
+			factor = 1.5
+			has_ethic = ethic_fanatic_militarist
+		}
+		modifier = {
+			factor = 1.25
+			research_leader = {
+				area = engineering
+				has_trait = "leader_trait_expertise_materials"
+			}
+		}
+	}
+}
+tech_ven_mass_driver_3 = {
+	area = engineering
+	cost = @tier3cost1
+	tier = 4
+	category = { materials }
+	ai_update_type = military
+	prerequisites = { "tech_ven_mass_driver_2" }
+	weight = @tier1weight1
+	
+	weight_modifier = {
+		modifier = {
+			factor = 0.65
+			has_ethic = ethic_fanatic_pacifist
+		}
+		modifier = {
+			factor = 0.8
+			has_ethic = ethic_pacifist
+		}
+		modifier = {
+			factor = 1.25
+			has_ethic = ethic_militarist
+		}
+		modifier = {
+			factor = 1.5
+			has_ethic = ethic_fanatic_militarist
+		}
+		modifier = {
+			factor = 1.25
+			research_leader = {
+				area = engineering
+				has_trait = "leader_trait_expertise_materials"
+			}
+		}
+	}
+	
+	ai_weight = {
+		factor = 4
+		modifier = {
+			factor = 0.65
+			has_ethic = ethic_fanatic_pacifist
+		}
+		modifier = {
+			factor = 0.8
+			has_ethic = ethic_pacifist
+		}
+		modifier = {
+			factor = 1.25
+			has_ethic = ethic_militarist
+		}
+		modifier = {
+			factor = 1.5
+			has_ethic = ethic_fanatic_militarist
+		}
+		modifier = {
+			factor = 1.25
+			research_leader = {
+				area = engineering
+				has_trait = "leader_trait_expertise_materials"
+			}
+		}
+	}
+}

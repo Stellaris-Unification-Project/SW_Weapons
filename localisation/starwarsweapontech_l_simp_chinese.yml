@@ -1,0 +1,731 @@
+﻿l_simp_chinese:
+ 
+ ####################################
+ # Color Event #by shuulleech
+ ####################################
+
+ tech_st_blaster_eng_color_event:0 "涡轮激光的颜色"
+ tech_st_blaster_eng_color_event_desc:0 "请选择涡轮激光的颜色"
+
+####################################
+ #New Localisations for v1.2
+ ####################################
+
+  #empire Strikecrafts
+  SW_TIE_FIGHTERR:0 "TIE Fighter (§Rred§!)"
+  SW_TIE_FIGHTERR_desc:0 "Described as lacking a hyperdrive or shield generators, the fragile TIE fighters are deployed in large numbers" 
+  SW_TIE_FIGHTERG:0 "TIE Fighter (§Ggreen§!)"
+  SW_TIE_FIGHTERG_desc:0 "Described as lacking a hyperdrive or shield generators, the fragile TIE fighters are deployed in large numbers"
+  SW_TIE_FIGHTERB:0 "TIE Fighter (§Bblue§!)"
+  SW_TIE_FIGHTERB_desc:0 "Described as lacking a hyperdrive or shield generators, the fragile TIE fighters are deployed in large numbers"
+  SW_TIE_INTERCEPTORR:0 "TIE Interceptor (§Rred§!)"
+  SW_TIE_INTERCEPTORR_desc:0 "The TIE/IN interceptor, also known as TIE Interceptor, was a type of TIE fighter used by the Galactic Empire" 
+  SW_TIE_INTERCEPTORG:0 "TIE Interceptor (§Ggreen§!)"
+  SW_TIE_INTERCEPTORG_desc:0 "The TIE/IN interceptor, also known as TIE Interceptor, was a type of TIE fighter used by the Galactic Empire"
+  SW_TIE_INTERCEPTORB:0 "TIE Interceptor (§Bblue§!)"
+  SW_TIE_INTERCEPTORB_desc:0 "The TIE/IN interceptor, also known as TIE Interceptor, was a type of TIE fighter used by the Galactic Empire"
+  SW_TIE_BOMBERR1:0 "TIE Bomber (§Rred§!)"
+  SW_TIE_BOMBERR1_desc:0 "TIE bomber, was a bombing variant of the TIE line used by the Galactic Empire" 
+  SW_TIE_BOMBERG1:0 "TIE Bomber (§Ggreen§!)"
+  SW_TIE_BOMBERG1_desc:0 "TIE bomber, was a bombing variant of the TIE line used by the Galactic Empire"
+  SW_TIE_BOMBERB1:0 "TIE Bomber (§Bblue§!)"
+  SW_TIE_BOMBERB1_desc:0 "TIE bomber, was a bombing variant of the TIE line used by the Galactic Empire"
+  SW_TIE_BOMBERR2:0 "TIE Bomber (§Rred§!)"
+  SW_TIE_BOMBERR2_desc:0 "TIE bomber, was a bombing variant of the TIE line used by the Galactic Empire" 
+  SW_TIE_BOMBERG2:0 "TIE Bomber (§Ggreen§!)"
+  SW_TIE_BOMBERG2_desc:0 "TIE bomber, was a bombing variant of the TIE line used by the Galactic Empire"
+  SW_TIE_BOMBERB2:0 "TIE Bomber (§Bblue§!)"
+  SW_TIE_BOMBERB2_desc:0 "TIE bomber, was a bombing variant of the TIE line used by the Galactic Empire"
+  SW_TIE_BOMBERR3:0 "TIE Bomber (§Rred§!)"
+  SW_TIE_BOMBERR3_desc:0 "TIE bomber, was a bombing variant of the TIE line used by the Galactic Empire" 
+  SW_TIE_BOMBERG3:0 "TIE Bomber (§Ggreen§!)"
+  SW_TIE_BOMBERG3_desc:0 "TIE bomber, was a bombing variant of the TIE line used by the Galactic Empire"
+  SW_TIE_BOMBERB3:0 "TIE Bomber (§Bblue§!)"
+  SW_TIE_BOMBERB3_desc:0 "TIE bomber, was a bombing variant of the TIE line used by the Galactic Empire"
+  SW_TIE_FIGHTERVR:0 "TIE Fighter (§Rred§!)"
+  SW_TIE_FIGHTERVR_desc:0 "Described as lacking a hyperdrive or shield generators, the fragile TIE fighters are deployed in large numbers" 
+  SW_TIE_FIGHTERVG:0 "TIE Fighter (§Ggreen§!)"
+  SW_TIE_FIGHTERVG_desc:0 "Described as lacking a hyperdrive or shield generators, the fragile TIE fighters are deployed in large numbers"
+  SW_TIE_FIGHTERVB:0 "TIE Fighter (§Bblue§!)"
+  SW_TIE_FIGHTERVB_desc:0 "Described as lacking a hyperdrive or shield generators, the fragile TIE fighters are deployed in large numbers"
+  SW_TIE_INTERCEPTORVR:0 "TIE Interceptor (§Rred§!)"
+  SW_TIE_INTERCEPTORVR_desc:0 "The TIE/IN interceptor, also known as TIE Interceptor, was a type of TIE fighter used by the Galactic Empire" 
+  SW_TIE_INTERCEPTORVG:0 "TIE Interceptor (§Ggreen§!)"
+  SW_TIE_INTERCEPTORVG_desc:0 "The TIE/IN interceptor, also known as TIE Interceptor, was a type of TIE fighter used by the Galactic Empire"
+  SW_TIE_INTERCEPTORVB:0 "TIE Interceptor (§Bblue§!)"
+  SW_TIE_INTERCEPTORVB_desc:0 "The TIE/IN interceptor, also known as TIE Interceptor, was a type of TIE fighter used by the Galactic Empire"
+  SW_TIE_BOMBERVR1:0 "TIE Bomber (§Rred§!)"
+  SW_TIE_BOMBERVR1_desc:0 "TIE bomber, was a bombing variant of the TIE line used by the Galactic Empire" 
+  SW_TIE_BOMBERVG1:0 "TIE Bomber (§Ggreen§!)"
+  SW_TIE_BOMBERVG1_desc:0 "TIE bomber, was a bombing variant of the TIE line used by the Galactic Empire"
+  SW_TIE_BOMBERVB1:0 "TIE Bomber (§Bblue§!)"
+  SW_TIE_BOMBERVB1_desc:0 "TIE bomber, was a bombing variant of the TIE line used by the Galactic Empire"
+  SW_TIE_BOMBERVR2:0 "TIE Bomber (§Rred§!)"
+  SW_TIE_BOMBERVR2_desc:0 "TIE bomber, was a bombing variant of the TIE line used by the Galactic Empire" 
+  SW_TIE_BOMBERVG2:0 "TIE Bomber (§Ggreen§!)"
+  SW_TIE_BOMBERVG2_desc:0 "TIE bomber, was a bombing variant of the TIE line used by the Galactic Empire"
+  SW_TIE_BOMBERVB2:0 "TIE Bomber (§Bblue§!)"
+  SW_TIE_BOMBERVB2_desc:0 "TIE bomber, was a bombing variant of the TIE line used by the Galactic Empire"
+  SW_TIE_BOMBERVR3:0 "TIE Bomber (§Rred§!)"
+  SW_TIE_BOMBERVR3_desc:0 "TIE bomber, was a bombing variant of the TIE line used by the Galactic Empire" 
+  SW_TIE_BOMBERVG3:0 "TIE Bomber (§Ggreen§!)"
+  SW_TIE_BOMBERVG3_desc:0 "TIE bomber, was a bombing variant of the TIE line used by the Galactic Empire"
+  SW_TIE_BOMBERVB3:0 "TIE Bomber (§Bblue§!)"
+  SW_TIE_BOMBERVB3_desc:0 "TIE bomber, was a bombing variant of the TIE line used by the Galactic Empire"
+ 
+
+ ###################################
+ # New/Changed Localisations #by TheSting
+ ###################################
+ 
+ #Technology
+ tech_ion_cannon_4:0 "特重型 离子炮"
+ tech_ion_cannon_4_desc:0 "极其强大的离子线圈为炮弹提供更多能量"
+ tech_ion_cannon_5:0 "凯伯增强型 离子炮"
+ tech_ion_cannon_5_desc:0 "凯伯增强型离子炮使用凯伯水晶进一步提升离子化提巴纳气体的强度"
+ tech_advanced_concussion:0 "先进 震荡导弹"
+ tech_advanced_concussion_desc:0 "采用更高能效的弹头来对敌人的船体造成更大的伤害"
+ tech_kyber_turbo:0 "凯伯增强型 涡轮激光"
+ tech_kyber_turbo_desc:0 "凯伯增强型涡轮激光使用凯伯水晶来增强提巴纳气体"
+ tech_sw_shield_leech:0 "护盾吞噬者"
+ tech_sw_shield_leech_desc:0 "牵引光束科技的进步使一种新型的强力反护盾武器成为可能"
+ tech_sw_proton_beam:0 "质子束"
+ tech_sw_proton_beam_desc:0 "通过投射一束与质子鱼雷相同的能量源，我们也许能够制造出一种强大的反装甲武器"
+ tech_sw_spinal_blast:0 "柱式 爆炸加农炮"
+ tech_sw_spinal_blast_desc:0 "爆炸加农炮使用大量的提巴纳气体与凯伯水晶来发射极其强大的离子球或电浆"
+ 
+ #Green Turbolaser Sets
+ LIGHT_TURBO_1_G:0 "轻型 涡轮激光 绿"
+ LIGHT_TURBO_1_G_DESC:0 "第一种舰载涡轮激光武器，向敌人发射密集的能量爆。使用高能气体作为弹药,由能量核心激活并转化为电浆。\n\n"
+ MEDIUM_TURBO_2_G:0 "中型 涡轮激光 绿"
+ MEDIUM_TURBO_2_G_DESC:0 "中型涡轮激光是轻型涡轮激光的威力升级版, 使用镀锌线圈来快速加速射击目标的气体。\n\n"
+ HEAVY_TURBO_3_G:0 "重型 涡轮激光 绿"
+ HEAVY_TURBO_3_G_DESC:0 "配备着最新的电磁加速器, 中型涡轮激光使用一对平行轨道来极速发射气体。\n\n"
+ VERYHEAVY_TURBO_4_G:0 "超重型 涡轮激光 绿"
+ VERYHEAVY_TURBO_4_G_DESC:0 "这一旧涡轮激光设计的升级版甚至比最新的重型涡轮激光设计更具毁灭性。它可以用令人难以置信的精度和速度发射高能气体。\n\n"
+ KYBER_TURBO_5_G:0 "凯伯增强型 涡轮激光 绿"
+ KYBER_TURBO_5_G_DESC:0 "这类涡轮激光使用凯伯水晶来提升过热提巴纳气弹的威力。"
+ 
+ #Green Turbolaser Components
+ SMALL_LIGHT_TURBO_1_G:0 "小号 轻型 涡轮激光 绿"
+ MEDIUM_LIGHT_TURBO_1_G:0 "中号 轻型 涡轮激光 绿"
+ LARGE_LIGHT_TURBO_1_G:0 "大号 轻型 涡轮激光 绿"
+ SMALL_MEDIUM_TURBO_2_G:0 "小号 中型 涡轮激光 绿"
+ MEDIUM_MEDIUM_TURBO_2_G:0 "中号 中型 涡轮激光 绿"
+ LARGE_MEDIUM_TURBO_2_G:0 "大号 中型 涡轮激光 绿"
+ SMALL_HEAVY_TURBO_3_G:0 "小号 重型 涡轮激光 绿"
+ MEDIUM_HEAVY_TURBO_3_G:0 "中号 重型 涡轮激光 绿" 
+ LARGE_HEAVY_TURBO_3_G:0 "大号 重型 涡轮激光 绿"
+ SMALL_VERYHEAVY_TURBO_4_G:0 "小号 超重型 涡轮激光 绿"
+ MEDIUM_VERYHEAVY_TURBO_4_G:0 "中号 超重型 涡轮激光 绿"
+ LARGE_VERYHEAVY_TURBO_4_G:0 "大号 超重型  涡轮激光 绿"
+ SMALL_KYBER_TURBO_5_G:0 "小号 凯伯增强型 涡轮激光 绿"
+ MEDIUM_KYBER_TURBO_5_G:0 "中号 凯伯增强型 涡轮激光 绿"
+ LARGE_KYBER_TURBO_5_G:0 "大号 凯伯增强型 涡轮激光 绿"
+ 
+ #Red Turbolaser Sets
+ LIGHT_TURBO_1_R:0 "轻型 涡轮激光 红"
+ LIGHT_TURBO_1_R_DESC:0 "第一种舰载涡轮激光武器，向敌人发射密集的能量爆。使用高能气体作为弹药,由能量核心激活并转化为电浆。\n\n"
+ MEDIUM_TURBO_2_R:0 "中型 涡轮激光 红"
+ MEDIUM_TURBO_2_R_DESC:0 "中型涡轮激光是轻型涡轮激光的威力升级版, 使用镀锌线圈来快速加速射击目标的气体。\n\n"
+ HEAVY_TURBO_3_R:0 "重型 涡轮激光 红"
+ HEAVY_TURBO_3_R_DESC:0 "配备着最新的电磁加速器, 中型涡轮激光使用一对平行轨道来极速发射气体。\n\n"
+ VERYHEAVY_TURBO_4_R:0 "超重型 涡轮激光 红"
+ VERYHEAVY_TURBO_4_R_DESC:0 "这一旧涡轮激光设计的升级版甚至比最新的重型涡轮激光设计更具毁灭性。它可以用令人难以置信的精度和速度发射高能气体。\n\n"
+ KYBER_TURBO_5_R:0 "凯伯增强型 涡轮激光 红"
+ KYBER_TURBO_5_R_DESC:0 "这类涡轮激光使用凯伯水晶来提升过热提巴纳气弹的威力。"
+ 
+ #Red Turbolaser Components
+ SMALL_LIGHT_TURBO_1_R:0 "小号 轻型 涡轮激光 红"
+ MEDIUM_LIGHT_TURBO_1_R:0 "中号 轻型 涡轮激光 红"
+ LARGE_LIGHT_TURBO_1_R:0 "大号 轻型 涡轮激光 红"
+ SMALL_MEDIUM_TURBO_2_R:0 "小号 中型 涡轮激光 红"
+ MEDIUM_MEDIUM_TURBO_2_R:0 "中号 中型 涡轮激光 红"
+ LARGE_MEDIUM_TURBO_2_R:0 "大号 中型 涡轮激光 红"
+ SMALL_HEAVY_TURBO_3_R:0 "小号 重型 涡轮激光 红"
+ MEDIUM_HEAVY_TURBO_3_R:0 "中号 重型 涡轮激光 红" 
+ LARGE_HEAVY_TURBO_3_R:0 "大号 重型 涡轮激光 红"
+ SMALL_VERYHEAVY_TURBO_4_R:0 "小号 超重型 涡轮激光 红"
+ MEDIUM_VERYHEAVY_TURBO_4_R:0 "中号 超重型 涡轮激光 红"
+ LARGE_VERYHEAVY_TURBO_4_R:0 "大号 超重型 涡轮激光 红"
+ SMALL_KYBER_TURBO_5_R:0 "小号 凯伯增强型 涡轮激光 红"
+ MEDIUM_KYBER_TURBO_5_R:0 "中号 凯伯增强型 涡轮激光 红"
+ LARGE_KYBER_TURBO_5_R:0 "大号 凯伯增强型 涡轮激光 红"
+ 
+ #Blue Turbolaser Sets
+ LIGHT_TURBO_1_B:0 "轻型 涡轮激光 蓝"
+ LIGHT_TURBO_1_B_DESC:0 "第一种舰载涡轮激光武器，向敌人发射密集的能量爆。使用高能气体作为弹药,由能量核心激活并转化为电浆。\n\n"
+ MEDIUM_TURBO_2_B:0 "中型 涡轮激光 蓝"
+ MEDIUM_TURBO_2_B_DESC:0 "中型涡轮激光是轻型涡轮激光的威力升级版, 使用镀锌线圈来快速加速射击目标的气体。\n\n"
+ HEAVY_TURBO_3_B:0 "重型 涡轮激光 蓝"
+ HEAVY_TURBO_3_B_DESC:0 "配备着最新的电磁加速器, 中型涡轮激光使用一对平行轨道来极速发射气体。\n\n"
+ VERYHEAVY_TURBO_4_B:0 "超重型 涡轮激光 蓝"
+ VERYHEAVY_TURBO_4_B_DESC:0 "这一旧涡轮激光设计的升级版甚至比最新的重型涡轮激光设计更具毁灭性。它可以用令人难以置信的精度和速度发射高能气体。\n\n"
+ KYBER_TURBO_5_B:0 "凯伯增强型 涡轮激光 蓝"
+ KYBER_TURBO_5_B_DESC:0 "这类涡轮激光使用凯伯水晶来提升过热提巴纳气弹的威力。"
+ 
+ #Blue Turbolaser Components
+ SMALL_LIGHT_TURBO_1_B:0 "小号 轻型 涡轮激光 蓝"
+ MEDIUM_LIGHT_TURBO_1_B:0 "中号 轻型 涡轮激光 蓝"
+ LARGE_LIGHT_TURBO_1_B:0 "大号 轻型 涡轮激光 蓝"
+ SMALL_MEDIUM_TURBO_2_B:0 "小号 中型 涡轮激光 蓝"
+ MEDIUM_MEDIUM_TURBO_2_B:0 "中号 中型 涡轮激光 蓝"
+ LARGE_MEDIUM_TURBO_2_B:0 "大号 中型 涡轮激光 蓝"
+ SMALL_HEAVY_TURBO_3_B:0 "小号 重型 涡轮激光 蓝"
+ MEDIUM_HEAVY_TURBO_3_B:0 "中号 重型 涡轮激光 蓝" 
+ LARGE_HEAVY_TURBO_3_B:0 "大号 重型 涡轮激光 蓝"
+ SMALL_VERYHEAVY_TURBO_4_B:0 "小号 超重型 涡轮激光 蓝"
+ MEDIUM_VERYHEAVY_TURBO_4_B:0 "中号 超重型 涡轮激光 蓝"
+ LARGE_VERYHEAVY_TURBO_4_B:0 "大号 超重型 涡轮激光 蓝"
+ SMALL_KYBER_TURBO_5_B:0 "小号 凯伯增强型 涡轮激光 蓝"
+ MEDIUM_KYBER_TURBO_5_B:0 "中号 凯伯增强型 涡轮激光 蓝"
+ LARGE_KYBER_TURBO_5_B:0 "大号 凯伯增强型 涡轮激光 蓝"
+ 
+ #Ion Cannon Sets
+ ION_CANNON_1:0 "轻型 离子加农炮"
+ ION_CANNON_1_DESC:0 "离子加农炮发射离子化的离子来干扰电子与护盾系统。\n\n"
+ ION_CANNON_2:0 "中型 离子加农炮"
+ ION_CANNON_2_DESC:0 "带来更高输出功率和精确度的新设计\n\n"
+ ION_CANNON_3:0 "重型 离子加农炮"
+ ION_CANNON_3_DESC:0 "采用了新型线圈，升级版火控与更高速度的新设计。\n\n"
+ ION_CANNON_4:0 "超重型 离子加农炮"
+ ION_CANNON_4_DESC:0 "这一型号的离子加农炮使用了更高浓度的离子化提巴纳气体与少量凯伯水晶，来发射比它前辈们更为强大的火力。"
+ ION_CANNON_5:0 "凯伯增强型 离子加农炮"
+ ION_CANNON_5_DESC:0 "凯伯增强型离子加农炮使用凯伯水晶来提升离子化离子的威力，并对敌人的子系统和护盾造成更有力的打击。"
+ #Ion Cannon Components
+ SMALL_ION_CANNON_1:0 "小号 轻型 离子加农炮"
+ MEDIUM_ION_CANNON_1:0 "中号 轻型 离子加农炮"
+ LARGE_ION_CANNON_1:0 "大号 轻型 离子加农炮"
+ SMALL_ION_CANNON_2:0 "小号 中型 离子加农炮"
+ MEDIUM_ION_CANNON_2:0 "中号 中型 离子加农炮"
+ LARGE_ION_CANNON_2:0 "大号 中型 离子加农炮"
+ SMALL_ION_CANNON_3:0 "小号 重型 离子加农炮"
+ MEDIUM_ION_CANNON_3:0 "中号 重型 离子加农炮"
+ LARGE_ION_CANNON_3:0 "大号 重型 离子加农炮"
+ SMALL_ION_CANNON_4:0 "小号 超重型 离子加农炮"
+ MEDIUM_ION_CANNON_4:0 "中号 超重型 离子加农炮"
+ LARGE_ION_CANNON_4:0 "大号 超重型 离子加农炮"
+ SMALL_ION_CANNON_5:0 "小号 凯伯增强型 离子加农炮"
+ MEDIUM_ION_CANNON_5:0 "中号 凯伯增强型 离子加农炮"
+ LARGE_ION_CANNON_5:0 "大号 凯伯增强型 离子加农炮
+ 
+ #Concussion Sets
+ 
+ G_CONCUSSION_1_SET:0 "轻型 震荡导弹"
+ G_CONCUSSION_1_SET_DESC:0 "一类中短程反器材的震荡导弹。\n\n"
+ G_CONCUSSION_2_SET:0 "中型 震荡导弹"
+ G_CONCUSSION_2_SET_DESC:0 "更大版本的震荡导弹，在各种船舰上都可使用。\n\n"
+ G_CONCUSSION_3_SET:0 "先进型 震荡导弹"
+ G_CONCUSSION_3_SET_DESC:0 "负载中对提巴纳气体的整合使这类震荡导弹威力更加强大"
+ G_CONCUSSION_4_SET:0 "重型 震荡导弹"
+ G_CONCUSSION_4_SET_DESC:0 "一种主力舰级的军械，用于行星轰炸和反主力舰任务。\n\n"
+ G_CONCUSSION_5_SET:0 "突击型 震荡导弹"
+ G_CONCUSSION_5_SET_DESC:0 "这些重型导弹主要用来轰炸星球和对旗舰作战。\n\n"
+ ION_PULSE:0 "离子推进型 导弹"
+ ION_PULSE_DESC:0 "离子推进型导弹使用了特制弹头，通过与离子加农炮近似的方式瘫痪船舰。\n\n"
+ ION_PULSE_2:0 "离子推进 II型 导弹"
+ ION_PULSE_2_DESC:0 "离子推进型导弹的更优版本，有更大的功率输出与更好的导航系统。\n\n"
+ 
+ 
+ #Concussion Templates
+ 
+ G_CONCUSSION_1:0 "轻型 震荡导弹" 
+ G_CONCUSSION_2:0 "中型 震荡导弹"
+ G_CONCUSSION_3:0 "先进型 震荡导弹"
+ G_CONCUSSION_4:0 "重型 震荡导弹"
+ G_CONCUSSION_5:0 "突击型 震荡导弹" 
+ G_IONPULSE_1:0 "离子推进型 导弹"
+ G_IONPULSE_2:0 "离子推进 II型 导弹"
+ 
+ #Proton Torpedos
+ 
+ G_PROTON_TORP_1:0 "质子鱼雷组 I型"
+ G_PROTON_TORP_1_DESC:0 "质子鱼雷组是非常强力的反舰武器。它们无视护盾并对敌人的船体造成大量伤害。"
+ G_PROTON_TORP_2:0 "质子鱼雷组 II型
+ G_PROTON_TORP_2_DESC:0 "这些升级版的鱼雷组利用大量的过热气体来制造更多的伤害。"
+ G_PROTON_TORP_3:0 "质子鱼雷组 III型"
+ G_PROTON_TORP_3_DESC:0 "这一型号使用凯伯水晶来增强有效负载的爆发力。"
+ 
+ #Resources
+ kyber_crystals:0 "凯伯水晶"
+ kyber_crystals_desc:0 "这些令人难以置信的强大的晶体能够加强我们的涡轮激光和其他武器的威力。"
+ tibanna_gas:0 "提巴纳气体"
+ tibanna_gas_desc:0 "提巴纳气体被用于所有涡轮激光型武器。它被过度加热，然后被推向一个目标。"
+ 
+ #XL weapons
+ 
+ SW_ION_BLAST:0 "离子爆破"
+ SW_ION_BLAST_L:0 "离子爆破"
+ SW_ION_BLAST_DESC:0 "离子爆破使用大量电离提巴纳气体创建一个巨大的离子能量球并推动它向目标发射。"
+ SW_PLASMA_BLAST:0 "电浆爆破"
+ SW_PLASMA_BLAST_L:0 "电浆爆破"
+ SW_PLASMA_BLAST_DESC:0 "电浆爆炸使用过热提巴纳气体,形成一个超级强大的电浆球,然后向一个目标发射。"
+ SW_SHIELD_LEECH:0 "护盾吞噬者"
+ SW_SHIELD_LEECH_XL:0 "护盾吞噬者"
+ SW_SHIELD_LEECH_DESC:0 "护盾吞噬者是十分强大的反护盾武器。他们从吸取的护盾能量中获得+2被动护盾回复"
+ SW_PROTON_BEAM:0 "质子束"
+ SW_PROTON_BEAM_XL:0 "质子束"
+ SW_PROTON_BEAM_DESC:0 "质子束是强大的反舰武器,用活跃的质子束使重型盔甲和船体受损。它们对护盾效果不佳。"
+ 
+ 
+ mod_weapon_type_turbo_laser_weapon_damage_mult:0 "涡轮激光 伤害"
+ mod_weapon_type_turbo_laser_weapon_fire_rate_mult:0 "涡轮激光 攻击速度"
+ ####################################
+ # Turbo Laser
+ ####################################
+
+ tech_st_blaster_eng:0 "爆破者科技"
+ tech_st_blaster_eng_desc:0 "新武器科技。可以将富能量气体转化成可以融化目标的炙热粒子束。"
+ 
+ tech_st_shipsized_weapons:0 "舰载武器"
+ tech_st_shipsized_weapons_desc:0 "在新能源生产和储存技术取得一些成功之后，我们现在有了舰载爆破武器的地基。"
+ 
+ tech_st_blastercolor_red:0 "红色"
+ tech_st_blastercolor_red_desc:0 "解锁红色涡轮激光"
+ 
+ tech_st_blastercolor_green:0 "绿色"
+ tech_st_blastercolor_green_desc:0 "解锁绿色涡轮激光"
+ 
+ tech_st_blastercolor_blue:0 "蓝色"
+ tech_st_blastercolor_blue_desc:0 "解锁蓝色涡轮激光"
+ 
+ tech_st_blastercolor_purple:0 "紫色"
+ tech_st_blastercolor_purple_desc:0 "解锁干扰器。"
+ 
+ tech_st_tibanna_refined:0 "精炼提巴纳气体"
+ tech_st_tibanna_refined_desc:0 "更好的提炼过的提巴纳气体将允许我们的涡轮激光武器能量输出更高，与更优秀的能量管理。"
+ 
+ tech_st_galven_coils:0 "新型镀锌线圈"
+ tech_st_galven_coils_desc:0 "新型镀锌线圈能更好地聚焦释放到提巴纳气体的能量,带来对目标更高的伤害输出。"
+ 
+ tech_st_cap_comp:0 "新型电容器组件"
+ tech_st_cap_comp_desc:0 "新的增强战场稳定技术和精确瞄准算法将允许我们制造一种新型武器"
+ 
+ tech_st_blast_rad:0 "爆破者散热器"
+ tech_st_blast_rad_desc:0 "新型舰载武器的高效冷却系统"
+ 
+ tech_st_fire_chamb:0 "燃烧室"
+ tech_st_fire_chamb_desc:0 "更大的燃烧室将允许更宽的能量束造成更大的伤害，能够从光束击中的任何物体中炸出大块碎片。"
+ 
+ tech_st_astro_mech:0 "宇航无人机"
+ tech_st_astro_mech_desc:0 "新开发的宇航无人机,设计于在船舰内外工作的诊断和维修单位。"
+ 
+ tech_st_barrels:0 "新型机筒"
+ tech_st_barrels_desc:0 "使用了增能矿物Mirkanite的新型机筒。"
+ 
+ TECH_UNLOCK_TURBO_LASER_CHAIN_TITLE:0 "§E涡轮激光研究链§!"
+ TECH_UNLOCK_TURBO_LASER_CHAIN_DESC:0 "本研究链研究的技术将解锁涡轮激光武器"
+
+ TECH_UNLOCK_QUAD_LASER_CHAIN_TITLE:0 "§E四重涡轮激光研究链§!"
+ TECH_UNLOCK_QUAD_LASER_CHAIN_DESC:0 "本研究链研究的技术将解锁四重涡轮激光武器"
+ 
+ TECH_UNLOCK_OCTUPLE_LASER_CHAIN_TITLE:0 "§E八重涡轮激光研究链§!"
+ TECH_UNLOCK_OCTUPLE_LASER_CHAIN_DESC:0 "本研究链研究的技术将解锁八重涡轮激光武器"
+
+ ##############
+ # Superlaser
+ ##############
+ 
+ tech_sw_death_plans:0 "死星计划"
+ tech_sw_death_plans_desc:0 "死星的灵感始于独立星系联盟使用威尔霍夫·塔金提供的计划和概念设计出终极武器之时。"
+ 
+ tech_sw_kyber_crystal:0 "凯伯水晶"
+ tech_sw_kyber_crystal_desc:0 "凯伯水晶,也叫做活着的水晶或凯伯,在古代被称为凯布尔晶体,很少见,这类感原力晶体生长在自然环境中，也被发现在银行中散落的行星上。他们被绝地和西斯用来建造光剑。"
+ 
+ tech_conq_laser:0 "征服者超级激光"
+ tech_conq_laser_desc:0 "星际驱逐舰的超级激光组件是在帝国风暴突击队的监督下，在纳布岛的一个帝国研究设施中建造的。据预测，如果安装得当，征服者上的超级激光将使星际驱逐舰有能力将一个小卫星击碎，或者将一个大陆撕成两半。"
+ 
+ TECH_UNLOCK_SUPERLASER_CHAIN_TITLE:0 "§E超级激光研究链§!"
+ TECH_UNLOCK_SUPERLASER_CHAIN_DESC:0 "研究这一研究链中的技术将解开超激光武器的谜团。"
+ 
+ #######
+ #Ion Cannon Chain
+ #######
+
+ tech_st_ionizing:0 "离子化粒子"
+ tech_st_ionizing_desc:0 "离子化粒子的新发展，使我们得以发展一种新型的舰载武器"
+ 
+ tech_st_ion_comp:0 "离子组件"
+ tech_st_ion_comp_desc:0 "新开发零部件如离子管、涡轮发电机、冷却网格和针对计算机将会让我们建立更好的离子加农炮" 
+
+ TECH_UNLOCK_ION_CANNON_CHAIN_TITLE:0 "§E离子加农炮研究链§!"
+ TECH_UNLOCK_ION_CANNON_CHAIN_DESC:0 "研究这一研究链中的技术将解开离子加农炮武器的谜团"
+ 
+ ######
+ #Disruptor Turbo chain
+ ######
+
+ tech_st_agent:0 "新的特工机构"
+ tech_st_agent_desc:0 "一个处理日益增长的黑市的新立机构。"
+ 
+ tech_st_black_market:0 "黑市"
+ tech_st_black_market_desc:0 "新机构已经取得了一些成功，取缔了我们星球上的黑市"
+ 
+ tech_st_zann_con:0 "赞恩财团"
+ tech_st_zann_con_desc:0 "我们的探员从赞恩财团盗走了一个高度机密的金库，发现了非法研发的武器技术"
+ 
+ TECH_UNLOCK_DISRUPTOR_CHAIN_TITLE:0 "§E干扰器研究链§!"
+ TECH_UNLOCK_DISRUPTOR_CHAIN_DESC:0 "研究这个研究链中的技术将解开干扰武器"
+ 
+ ######
+ #Missile Techs
+ ######
+ 
+ tech_small_concussion:0 "轻型 震荡导弹"
+ tech_small_concussion_desc:0 "震荡导弹是一种通用的中短程反车辆武器，由来自银河系的许多制造商生产，其中最著名的是Dymek。"
+ 
+ tech_medium_concussion:0 "中型 震荡导弹"
+ tech_medium_concussion_desc:0 "更大版本的震荡导弹，用于各种舰船。"
+ 
+ tech_heavy_concussion:0 "重型 震荡导弹"
+ tech_heavy_concussion_desc:0 "一种主力舰级的军械，用于行星轰炸和反主力舰任务。"
+ 
+ tech_assault_concussion:0 "突击型 震荡导弹"
+ tech_assault_concussion_desc:0 "这些重型导弹主要用于行星轰炸和反首都舰任务，通常搭载在重型战舰上，如胜利i级星际驱逐舰和星云级星际驱逐舰。"
+ 
+ tech_ion_pulse_missile:0 "离子推进型 导弹"
+ tech_ion_pulse_missile_desc:0 "离子推进型导弹的弹头设计类似于离子加农，可以瘫痪船舰。它们的效果比Mag脉冲弹头更全面，Mag脉冲弹头只是摧毁了武器系统。"
+ 
+ tech_ion_pulse_missile_2:0 "离子推进型 导弹 II"
+ tech_ion_pulse_missile_2_desc:0 "更好的离子推进型导弹版本,更大输出功率和更好的导航系统。"
+ 
+ TECH_UNLOCK_CONCUSSION_CHAIN_TITLE:0 "§E震荡导弹研究链§!"
+ TECH_UNLOCK_CONCUSSION_CHAIN_DESC:0 "研究这一研究链中的技术将解开震荡导弹武器的谜团"
+ 
+ # ###################################
+ # Engineering - Weapons
+ # ###################################
+
+ # Turbolaser Branch
+ tech_light_turbo:0 "轻型 涡轮激光"
+ tech_light_turbo_desc:0 "第一类舰载涡轮激光武器,涡轮激光向目标发射剧烈爆炸的能量。利用高能气体作为弹药，由电池激活并转化为电浆。\n\n"
+ 
+ tech_turbo_laser:0 "涡轮激光"
+ tech_turbo_laser_desc:0 "涡轮激光是一个早期轻型涡轮激光更强大的版本,使用galven线圈迅速加速气体向目标发射。\n\n"
+ 
+ tech_medium_turbo:0 "中型 涡轮激光"
+ tech_medium_turbo_desc:0 "配备着最新的电磁加速器, 中型涡轮激光使用一对平行轨道来极速发射气体。\n\n"
+ 
+ tech_heavy_turbo:0 "重型 涡轮激光"
+ tech_heavy_turbo_desc:0 "一个新版本的宝贵的涡轮激光,配上更坚固的轨道和一个增强的电源。这些武器甚至比它们的前辈更加强大和精确。\n\n"
+ 
+ tech_veryheavy_turbo:0 "超重型 涡轮激光"
+ tech_veryheavy_turbo_desc:0 "这个升技版本的老涡轮激光设计甚至比最新的重型涡轮激光设计更具破坏性。它能够以惊人的准确性和速度发射高能气体。\n\n"
+ 
+ tech_quad_turbo_1:0 "四重 涡轮激光"
+ tech_quad_turbo_1_desc:0 "它由四个激光加农组成，可以成对交替或快速连续发射。与其他同等尺寸的舰载武器相比，它们非常强大。\n\n"
+ 
+ tech_quad_turbo_2:0 "四重 涡轮激光 II"
+ tech_quad_turbo_2_desc:0 "配备了一个新的枪管和一个升级版的火控计算机。\n\n"
+ 
+ tech_quad_turbo_3:0 "四重 涡轮激光 III"
+ tech_quad_turbo_3_desc:0 "新的能源供应和人工智能控制，允许更高的射程和射程。\n\n"
+ 
+ tech_octuple_turbo_1:0 "八重 涡轮激光 MK I型
+ tech_octuple_turbo_1_desc:0 "超远程的涡轮激光，能够在极限距离下投掷的强能量粒子。\n\n"
+ 
+ tech_octuple_turbo_2:0 "八重 涡轮激光 MK II型"
+ tech_octuple_turbo_2_desc:0 "配备了一个新的枪管和一个升级版的冷却系统。\n\n"
+ 
+ tech_st_disruptor_1:0 "干扰器 I型"
+ tech_st_disruptor_1_desc:0 "当攻击生物目标时，受害者会一个原子一个原子地分解，导致缓慢而痛苦的死亡。\n\n"
+ 
+ tech_st_disruptor_2:0 "干扰器 II型"
+ tech_st_disruptor_2_desc:0 "在最近的黑市突袭中发现的高度发达的非法干扰武器。\n\n"
+ 
+ tech_st_disruptor_3:0 "干扰器 III型"
+ tech_st_disruptor_3_desc:0 "新的武器设计，发现在赞恩财团保险库。\n\n"
+ 
+ tech_agrocite_enhancement:0 "阿格赛特 增强"
+ tech_agrocite_enhancement_desc:0 "使用增能矿物 阿格赛特 提升所有涡轮激光。\n\n"
+ 
+ tech_coolant_enhancement:0 "冷却剂增强"
+ tech_coolant_enhancement_desc:0 "一种新的冷却剂，用于降低过热的风险，允许更高的开火速率。\n\n"
+ 
+ # Component set green
+ 
+ BLASTER_1:0 "爆破激光"
+ BLASTER_1_DESC:0 "实验性太空武器"
+ 
+ FLAK_QUAD_TURBO_1_G:0 "四轴高射激光 绿"
+ FLAK_QUAD_TURBO_1_G_DESC:0 "它由四个激光加农炮组成，可以在短时间内各自连续发射。\n\n"
+ 
+ FLAK_QUAD_TURBO_2_G:0 "四轴高射激光 II型 绿"
+ FLAK_QUAD_TURBO_2_G_DESC:0 "配备了一个新的枪管和一个升级的火控计算机。\n\n"
+ 
+ QUAD_TURBO_1_G:0 "四重 涡轮激光 绿"
+ QUAD_TURBO_1_G_DESC:0 "它由四个激光加农可以成对交替或各自快速连续发射。与其他同等尺寸的舰载武器相比，它们非常强大。\n\n"
+ 
+ QUAD_TURBO_2_G:0 "四重 涡轮激光 II 绿"
+ QUAD_TURBO_2_G_DESC:0 "配备了一个新的枪管和一个升级的火控计算机。\n\n"
+ 
+ QUAD_TURBO_3_G:0 "四重 涡轮激光 III 绿"
+ QUAD_TURBO_3_G_DESC:0 "新能源供应和人工智能控制，允许更高的射速和射程。\n\n"
+ 
+ OCTUPLE_TURBO_1_G:0 "八重 涡轮激光 MK I 绿"
+ OCTUPLE_TURBO_1_G_DESC:0 "超远程涡轮激光能够在极限距离下投掷强能量粒子。\n\n"
+ 
+ OCTUPLE_TURBO_2_G:0 "八重 涡轮激光 MK II 绿"
+ OCTUPLE_TURBO_2_G_DESC:0 "配备新的能源供应和升级的冷却系统。\n\n"
+ 
+ SW_SUPERLASER:0 "征服者超级激光"
+ SW_SUPERLASER_DESC:0 "小型化的死星超激光武器，用于征服者ISD"
+ 
+ # Component parts green
+ 
+ SMALL_BLASTER_1:0 "小型 爆破"
+ 
+ M_FLAK_QUAD_TURBO_1_G:0 "中号 四轴高射激光 绿"
+ M_FLAK_QUAD_TURBO_2_G:0 "中号 四轴高射激光 II型 绿"
+ 
+ SMALL_QUAD_TURBO_1_G:0 "小号 四重 涡轮激光 绿"
+ MEDIUM_QUAD_TURBO_1_G:0 "中号 四重 涡轮激光 绿"
+ LARGE_QUAD_TURBO_1_G:0 " 大号 四重 涡轮激光 绿"
+ 
+ SMALL_QUAD_TURBO_2_G:0 "小号 四重 涡轮激光 II 绿"
+ MEDIUM_QUAD_TURBO_2_G:0 "中号 四重 涡轮激光 II 绿"
+ LARGE_QUAD_TURBO_2_G:0 "大号 四重 涡轮激光 II 绿"
+ 
+ SMALL_QUAD_TURBO_3_G:0 "小号 四重 涡轮激光 III 绿"
+ MEDIUM_QUAD_TURBO_3_G:0 "中号 四重 涡轮激光 III 绿"
+ LARGE_QUAD_TURBO_3_G:0 "大号 四重 涡轮激光 III 绿"
+ 
+ LARGE_OCTUPLE_TURBO_1_G:0 "八重 涡轮激光 MK I 绿"
+ LARGE_OCTUPLE_TURBO_2_G:0 "八重 涡轮激光 MK II 绿"
+ 
+ SMALL_SPACEPORT_TURBO_LASER_G:0 "小号 太空站 涡轮激光 绿"
+ MEDIUM_SPACEPORT_TURBO_LASER_G:0 "中号 太空站 涡轮激光 绿"
+ LARGE_SPACEPORT_TURBO_LASER_G:0 "大号 太空站 涡轮激光 绿"
+ 
+ SW_SUPERLASER:0 "征服者超级激光"
+ 
+ # Component set red
+ 
+ FLAK_QUAD_TURBO_2_R:0 "四轴高射激光 II型 红"
+ FLAK_QUAD_TURBO_2_R_DESC:0 "配备了一个新的枪管和一个升级的火控计算机。\n\n"
+ 
+ FLAK_QUAD_TURBO_1_R:0 "四轴高射激光 红"
+ FLAK_QUAD_TURBO_1_R_DESC:0 "它由四个激光加农炮组成，可以在短时间内各自连续发射。\n\n"
+ 
+ QUAD_TURBO_1_R:0 "四重 涡轮激光 红"
+ QUAD_TURBO_1_R_DESC:0 "它由四个激光加农可以成对交替或各自快速连续发射。与其他同等尺寸的舰载武器相比，它们非常强大。\n\n"
+ 
+ QUAD_TURBO_2_R:0 "四重 涡轮激光 II型 红"
+ QUAD_TURBO_2_R_DESC:0 "配备了一个新的枪管和一个升级的火控计算机。\n\n"
+ 
+ QUAD_TURBO_3_R:0 "四重 涡轮激光 III型 红"
+ QUAD_TURBO_3_R_DESC:0 "新能源供应和人工智能控制，允许更高的射速和射程。\n\n"
+ 
+ OCTUPLE_TURBO_1_R:0 "八重 涡轮激光 MK I型 红"
+ OCTUPLE_TURBO_1_R_DESC:0 "超远程涡轮激光能够在极限距离下投掷强能量粒子。\n\n"
+ 
+ OCTUPLE_TURBO_2_R:0 "八重 涡轮激光 MK II型 红"
+ OCTUPLE_TURBO_2_R_DESC:0 "配备新的能源供应和升级的冷却系统。\n\n"
+ 
+ 
+ # Component parts red
+ 
+ M_FLAK_QUAD_TURBO_1_R:0 "中型 四轴高射激光 红"
+ M_FLAK_QUAD_TURBO_2_R:0 "中型 四轴高射激光 II型 红"
+ 
+ SMALL_QUAD_TURBO_1_R:0 "小号 四重 涡轮激光 Red"
+ MEDIUM_QUAD_TURBO_1_R:0 "中号 四重 涡轮激光 Red"
+ LARGE_QUAD_TURBO_1_R:0 "Large 四重 涡轮激光 Red"
+ 
+ SMALL_QUAD_TURBO_2_R:0 "小号 四重 涡轮激光 II Red"
+ MEDIUM_QUAD_TURBO_2_R:0 "中号 四重 涡轮激光 II Red"
+ LARGE_QUAD_TURBO_2_R:0 "大号 四重 涡轮激光 II Red"
+ 
+ SMALL_QUAD_TURBO_3_R:0 "小号 四重 涡轮激光 III Red"
+ MEDIUM_QUAD_TURBO_3_R:0 "中号 四重 涡轮激光 III Red"
+ LARGE_QUAD_TURBO_3_R:0 "大号 四重 涡轮激光 III Red"
+ 
+ LARGE_OCTUPLE_TURBO_1_R:0 "八重 涡轮激光 MK I Red"
+ LARGE_OCTUPLE_TURBO_2_R:0 "八重 涡轮激光 MK II Red"
+ 
+ SMALL_SPACEPORT_TURBO_LASER_R:0 "小号 太空站 涡轮激光 Red"
+ MEDIUM_SPACEPORT_TURBO_LASER_R:0 "中号 太空站 涡轮激光 Red"
+ LARGE_SPACEPORT_TURBO_LASER_R:0 "大号 太空站 涡轮激光 Red"
+ 
+ # Component set blue
+ SPACEPORT_TURBO_LASER_B:0 "太空站 涡轮激光 蓝"
+ SPACEPORT_TURBO_LASER_B_DESC:1 "太空站级的涡轮激光,虽然设计较旧,打击的强度甚至比得上他们舰级的弟兄。\n\n"
+ 
+ QUAD_TURBO_1_B:0 "四重 涡轮激光 蓝"
+ QUAD_TURBO_1_B_DESC:0 "它由四个激光加农可以成对交替或各自快速连续发射。与其他同等尺寸的舰载武器相比，它们非常强大。\n\n"
+ 
+ FLAK_QUAD_TURBO_1_B:0 "四轴高射激光 蓝"
+ FLAK_QUAD_TURBO_1_B_DESC:0 "它由四个激光加农炮组成，可以在短时间内各自连续发射。\n\n"
+ 
+ FLAK_QUAD_TURBO_2_B:0 "四轴高射激光 II型 蓝"
+ FLAK_QUAD_TURBO_2_B_DESC:0 "配备了一个新的枪管和一个升级的火控计算机。\n\n"
+ 
+ QUAD_TURBO_2_B:0 "四重 涡轮激光 II型 蓝"
+ QUAD_TURBO_2_B_DESC:0 "配备了一个新的枪管和一个升级的火控计算机。\n\n"
+ 
+ QUAD_TURBO_3_B:0 "四重 涡轮激光 III型 蓝"
+ QUAD_TURBO_3_B_DESC:0 "新能源供应和人工智能控制，允许更高的射速和射程。\n\n"
+ 
+ OCTUPLE_TURBO_1_B:0 "八重 涡轮激光 MK I型 蓝"
+ OCTUPLE_TURBO_1_B_DESC:0 "超远程涡轮激光能够在极限距离下投掷强能量粒子。\n\n"
+ 
+ OCTUPLE_TURBO_2_B:0 "八重 涡轮激光 MK II型 蓝"
+ OCTUPLE_TURBO_2_B_DESC:0 "配备新的能源供应和升级的冷却系统。\n\n"
+ 
+ # Component parts blue
+ M_FLAK_QUAD_TURBO_1_B:0 "中型 四轴高射激光 蓝"
+ M_FLAK_QUAD_TURBO_2_B:0 "中型 四轴高射激光 II型 蓝"
+ 
+ SMALL_QUAD_TURBO_1_B:0 "小号 四重 涡轮激光 蓝"
+ MEDIUM_QUAD_TURBO_1_B:0 "中号 四重 涡轮激光 蓝"
+ LARGE_QUAD_TURBO_1_B:0 "大号 四重 涡轮激光 蓝"
+ 
+ SMALL_QUAD_TURBO_2_B:0 "小号 四重 涡轮激光 II 蓝"
+ MEDIUM_QUAD_TURBO_2_B:0 "中号 四重 涡轮激光 II 蓝"
+ LARGE_QUAD_TURBO_2_B:0 "大号 四重 涡轮激光 II 蓝"
+ 
+ SMALL_QUAD_TURBO_3_B:0 "小号 四重 涡轮激光 III 蓝"
+ MEDIUM_QUAD_TURBO_3_B:0 "中号 四重 涡轮激光 III 蓝"
+ LARGE_QUAD_TURBO_3_B:0 "大号 四重 涡轮激光 III 蓝"
+ 
+ LARGE_OCTUPLE_TURBO_1_B:0 "八重 涡轮激光 MK I 蓝"
+ LARGE_OCTUPLE_TURBO_2_B:0 "八重 涡轮激光 MK II 蓝"
+ 
+ SMALL_SPACEPORT_TURBO_LASER_B:0 "小号 太空站 涡轮激光 蓝"
+ MEDIUM_SPACEPORT_TURBO_LASER_B:0 "中号 太空站 涡轮激光 蓝"
+ LARGE_SPACEPORT_TURBO_LASER_B:0 "大号 太空站 涡轮激光 蓝"
+ 
+ 
+ # Planet View
+ 
+ sm_turbolaser_weapon:0 "涡轮激光防御模块"
+ sm_turbolaser_weapon_desc:0 "§E这一 §H太空站§! 装备有重型的 §H涡轮激光§! 武器作为主要防御.涡轮激光技术的进步将增加这些武器的伤害。§!"
+
+ ####################################
+ # Disruptor
+ ####################################
+ 
+ #component list
+ DISRUPTOR_1_P:0 "干扰器 MK I型"
+ DISRUPTOR_1_P_DESC:0 "当攻击生物目标时，受害者会一个原子一个原子地分解，导致缓慢而痛苦的死亡。\n\n"
+ 
+ DISRUPTOR_2_P:0 "干扰器 MK II型"
+ DISRUPTOR_2_P_DESC:0 "在最近的黑市突袭中发现的高度发达的非法干扰武器。\n\n"
+ 
+ DISRUPTOR_3_P:0 "干扰器 MK III型"
+ DISRUPTOR_3_P_DESC:0 "新的武器设计，发现在赞恩财团保险库。\n\n"
+ 
+ 
+ #component parts
+ 
+ MEDIUM_DISRUPTOR_1_P:0 "中号 干扰器 MK I型"
+ LARGE_DISRUPTOR_1_P:0 "大号 干扰器 MK I型"
+ 
+ MEDIUM_DISRUPTOR_2_P:0 "中号 干扰器 MK II型"
+ LARGE_DISRUPTOR_2_P:0 "大号 干扰器 MK II型"
+ 
+ MEDIUM_DISRUPTOR_3_P:0 "中号 干扰器 MK III型"
+ LARGE_DISRUPTOR_3_P:0 "大号 干扰器 MK III型"
+ 
+ 
+ 
+ 
+ ####################################
+ # Physic - Weapons
+ ####################################
+
+ # Ion Cannon Branch
+ tech_ion_cannon_1:0 "轻型 离子加农炮"
+ tech_ion_cannon_1_desc:0 "离子加农炮发射电离粒子破坏电子和护盾系统。\n\n"
+ 
+ tech_ion_cannon_2:0 "中型 离子加农炮"
+ tech_ion_cannon_2_desc:0 "新设计具有更高的能量输出和更好的精度。\n\n"
+
+ tech_ion_cannon_3:0 "重型 离子加农炮"
+ tech_ion_cannon_3_desc:0 "采用了新型线圈，升级版火控与更高速度的新设计。\n\n" 
+ 
+ # Defence Turbo Branch
+ 
+ tech_defence_turbo_1:0 "防御型 涡轮激光 MK I型"
+ tech_defence_turbo_1_desc:0 "更小的涡轮激光轻型版本，用来防御导弹,鱼雷和战斗机大小船只。\n\n"
+ 
+ tech_defence_turbo_2:0 "防御型 涡轮激光 MK II型"
+ tech_defence_turbo_2_desc:0 "具有更高的精度和速度的新设计。\n\n"
+ 
+ tech_defence_turbo_3:0 "防御型 涡轮激光 MK III型"
+ tech_defence_turbo_3_desc:0 "新的枪管带来更高的能源输出，并装备了最新的火控AI。\n\n"
+ 
+ # Component list green
+ 
+ DEFENCE_TURBO_1_G:0 "防御型 涡轮激光 MK I型 绿"
+ DEFENCE_TURBO_1_G_DESC:0 "更小的涡轮激光轻型版本，用来防御导弹,鱼雷和战斗机大小船只。\n\n"
+ 
+ DEFENCE_TURBO_2_G:0 "防御型 涡轮激光 MK II型 绿"
+ DEFENCE_TURBO_2_G_DESC:0 "具有更高的精度和速度的新设计。\n\n"
+ 
+ DEFENCE_TURBO_3_G:0 "防御型 涡轮激光 MK III型 绿"
+ DEFENCE_TURBO_3_G_DESC:0 "新的枪管带来更高的能源输出，并装备了最新的火控AI。\n\n"
+ 
+ # Component parts
+ 
+ DEFENCE_TURBO_1_G:0 "防御型 涡轮激光 MK I型 绿"
+ 
+ DEFENCE_TURBO_2_G:0 "防御型 涡轮激光 MK II型 绿"
+ 
+ DEFENCE_TURBO_3_G:0 "防御型 涡轮激光 MK III型 绿"
+ 
+ # Component list red
+ 
+ DEFENCE_TURBO_1_R:0 "防御型 涡轮激光 MK I型 红"
+ DEFENCE_TURBO_1_R_DESC:0 "更小的涡轮激光轻型版本，用来防御导弹,鱼雷和战斗机大小船只。\n\n"
+ 
+ DEFENCE_TURBO_2_R:0 "防御型 涡轮激光 MK II型 红"
+ DEFENCE_TURBO_2_R_DESC:0 "具有更高的精度和速度的新设计。\n\n"
+ 
+ DEFENCE_TURBO_3_R:0 "防御型 涡轮激光 MK III型 红"
+ DEFENCE_TURBO_3_R_DESC:0 "新的枪管带来更高的能源输出，并装备了最新的火控AI。\n\n"
+ 
+ # Component parts
+ 
+ DEFENCE_TURBO_1_R:0 "防御型 涡轮激光 MK I型 红"
+ 
+ DEFENCE_TURBO_2_R:0 "防御型 涡轮激光 MK II型 红"
+ 
+ DEFENCE_TURBO_3_R:0 "防御型 涡轮激光 MK III型 红"
+ 
+ # Component list blue
+ 
+ DEFENCE_TURBO_1_B:0 "防御型 涡轮激光 MK I型 蓝"
+ DEFENCE_TURBO_1_B_DESC:0 "更小的涡轮激光轻型版本，用来防御导弹,鱼雷和战斗机大小船只。\n\n"
+ 
+ DEFENCE_TURBO_2_B:0 "防御型 涡轮激光 MK II型 蓝"
+ DEFENCE_TURBO_2_B_DESC:0 "具有更高的精度和速度的新设计。\n\n"
+ 
+ DEFENCE_TURBO_3_B:0 "防御型 涡轮激光 MK III型 蓝"
+ DEFENCE_TURBO_3_B_DESC:0 "新的枪管带来更高的能源输出，并装备了最新的火控AI。\n\n"
+ 
+ # Component parts
+ 
+ DEFENCE_TURBO_1_B:0 "防御型 涡轮激光 MK I型 蓝"
+ 
+ DEFENCE_TURBO_2_B:0 "防御型 涡轮激光 MK II型 蓝"
+ 
+ DEFENCE_TURBO_3_B:0 "防御型 涡轮激光 MK III型 蓝"
+ 
+ # Component tags
+ 
+ weapon_type_turbo_laser:0 "§Y涡轮激光§!"
+ weapon_type_ion_cannon:0 "§Y离子加农炮§!"
+
+ weapon_role_anti_ship:0 "§Y反舰§!"
+ 
+ weapon_type_turbo_laser_weapon_damage_mult:0 "涡轮激光 武器 伤害"
+ weapon_type_turbo_laser_weapon_fire_rate_mult:0 "涡轮激光 武器 攻击速度"
+ 
+ # Repeatable Tech
+ 
+ tech_repeatable_weapon_type_turbo_laser_damage:0 "提巴纳气体 压缩器"
+ tech_repeatable_weapon_type_turbo_laser_damage_desc:0 "压缩允许涡轮激光爆传递更多提巴纳气体,增加伤害输出。\n\n"
+ 
+ tech_repeatable_weapon_type_turbo_laser_fire_rate:0 "提巴纳气体 注射器"
+ tech_repeatable_weapon_type_turbo_laser_fire_rate_desc:0 "新的注射器允许更多的提巴纳气体注入,增加发射速度。\n\n"

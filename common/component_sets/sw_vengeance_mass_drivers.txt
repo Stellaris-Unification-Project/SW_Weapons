@@ -1,0 +1,18 @@
+component_set = {
+	key = "SW_VEN_MASS_DRIVER_1_SET"
+	
+	icon = "GFX_ship_part_ven_mass_driver_1"
+	icon_frame = 1	
+}
+component_set = {
+	key = "SW_VEN_MASS_DRIVER_2_SET"
+	
+	icon = "GFX_ship_part_ven_mass_driver_2"
+	icon_frame = 1	
+}
+component_set = {
+	key = "SW_VEN_MASS_DRIVER_3_SET"
+	
+	icon = "GFX_ship_part_ven_mass_driver_3"
+	icon_frame = 1	
+}

@@ -1,0 +1,17 @@
+objectTypes = {
+########
+# Idle Weapon effects
+########
+	pdxparticle = {
+		name = "sw_ven_mass_driver_idle"
+		type = "sw_ven_mass_driver_idle_file"
+		
+		scale = 0.75
+	}
+	pdxparticle = {
+		name = "sw_ven_mass_driver_idle_drops"
+		type = "sw_ven_mass_driver_idle_drops_file"
+		
+		scale = 0.75
+	}
+}

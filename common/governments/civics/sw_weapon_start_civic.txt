@@ -1,0 +1,17 @@
+civic_weapon_research = {
+	possible = {
+        ethics = {
+            or = {
+                text = civic_tooltip_militarist
+				value = ethic_militarist
+				value = ethic_fanatic_militarist
+				value = ethic_gestalt_consciousness
+            }
+        }
+    }						
+	modification = no
+
+	modifier = {
+        		weapon_type_turbo_laser_weapon_damage_mult = 0.20
+    }							
+}
