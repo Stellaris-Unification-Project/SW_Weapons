@@ -13,8 +13,8 @@ country_event = {
 		NOR = {
 			has_technology = "tech_st_blastercolor_red"
 			has_technology = "tech_st_blastercolor_green"
+			has_technology = "tech_st_blastercolor_blue"
 		}
-		NOT = { has_technology = "tech_st_blastercolor_blue" }
 	}
 	option = {
 		name = SW_GREEN
